@@ -88,3 +88,8 @@
 📌 **Conclusion**
 
 This dashboard helps educational institutions monitor student performance and financial status effectively through interactive visualizations and actionable insights.
+
+**Project Link**
+
+[https://github.com/ShanthiPriya7106/STUDENT-ANALYSIS-DASHBOARD-Power-BI-Project.git]
+
